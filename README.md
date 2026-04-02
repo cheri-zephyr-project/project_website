@@ -12,3 +12,9 @@ The site should then be live @ <http://localhost:4000>.   Once the site is runni
 
 ## How to publish
 TBD.  Might use <https://github.com/BretFisher/jekyll-serve> in some CI/CD workflow?  Look at how missing semester does this on push.
+
+## TODO
+* Add video of demonstrator
+* Fix all FIXMEs in the `_config` file
+* Deploy page publically
+* Actually write real content for About page
