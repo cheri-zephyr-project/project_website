@@ -118,9 +118,9 @@ navigation_header:
 
 navigation_footer:
 - title: CHERI-Zephyr Group
-  url: www.example.com # FIXME
+  url: https://cheri-zephyr-project.github.io/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GitHub: https://github.com/cheri-zephyr-project
-  link: wwww.example.com # FIXME
+  link: https://cheri-zephyr-project.github.io/
   RSS: /feed.xml
